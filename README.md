@@ -42,7 +42,7 @@
 - **Databases**:
   
    ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-   ![SQL Developer](https://img.shields.io/badge/Oracle%SQL%20Developer-000000?style=for-the-badge&logo=oracle&logoColor=white)
+   ![SQL Developer](https://img.shields.io/badge/Oracle%20SQL%20Developer-000000?style=for-the-badge&logo=oracle&logoColor=white)
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   
 <br>
