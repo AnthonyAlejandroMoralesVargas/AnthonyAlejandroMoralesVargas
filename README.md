@@ -77,7 +77,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/anthony-morales-1845381a8/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin: Anthony Morales-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -85,7 +85,7 @@
 
 <li>
 <a href="mailto:moralesanthony090803@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail: moralesanthony090803@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 
@@ -93,7 +93,7 @@
 
 <li>
 <a href="mailto:anthony.morales03@epn.edu.ec" target="_blank">
-<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Mail" style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Outlook: anthony.morales03@epn.edu.ec-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Mail" style="margin-bottom: 5px;"/>
 </a>
 </li>
 	
