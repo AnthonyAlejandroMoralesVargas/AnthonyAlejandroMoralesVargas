@@ -69,7 +69,7 @@
 
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="" width ="80">
 <br>
 <div align='left'>
 
@@ -89,7 +89,14 @@
 </a>
 </li>
 
+<br>
 
+<li>
+<a href="mailto:anthony.morales03@epn.edu.ec" target="_blank">
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Mail" style="margin-bottom: 5px;"/>
+</a>
+</li>
 	
 </ul>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
